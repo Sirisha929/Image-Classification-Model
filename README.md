@@ -12,3 +12,5 @@ BATCH DURATION:JAN 5TH TO MAY 5TH
 MENTOR NAME: NEELA SANTOSH KUMAR
 OUTPUT: accuracy: 0.7197 - loss: 0.8659
 Test accuracy: 0.7196999788284302
+
+Output :![Image](https://github.com/user-attachments/assets/0954a9d7-7c08-4e63-b9a2-a2fc9ad03798)
